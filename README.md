@@ -3,7 +3,7 @@ About r-relimp
 
 Home: http://warwick.ac.uk/relimp
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-relimp-feedstock/blob/master/LICENSE.txt)
 
