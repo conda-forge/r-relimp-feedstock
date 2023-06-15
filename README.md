@@ -1,11 +1,11 @@
-About r-relimp
-==============
+About r-relimp-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-relimp-feedstock/blob/main/LICENSE.txt)
 
 Home: http://warwick.ac.uk/relimp
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-relimp-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions to facilitate inference on the relative importance of predictors in a linear or generalized linear model, and a couple of useful Tcl/Tk widgets.
 
